@@ -41,7 +41,7 @@ const wishesCategories = {
     ],
     funny: [
         "Happy 21th Birthday, Saima! Don't worry, you're not getting older, you're just leveling up!",
-        "Congratulations on reaching level 19, Saima! May your new skills include cake-eating and present-opening!",
+        "Congratulations on reaching level 21, Saima! May your new skills include cake-eating and present-opening!",
         "Happy Birthday, Saima! Remember, age is just a number... a really high number in your case!",
         "Saima, you're not old, you're just vintage! Happy 19th Birthday!"
     ],
@@ -55,7 +55,7 @@ const wishesCategories = {
         "Like a flower in bloom, you grow more beautiful with each passing year. Happy 21th Birthday, Saima.",
         "May your life be painted with the colors of joy, love, and laughter. Happy Birthday, Saima.",
         "On this special day, may your heart be filled with sunshine and your path lined with roses. Happy Birthday, Saima.",
-        "Like a star in the night sky, you shine bright. May your 19th year be as luminous as you are, Saima."
+        "Like a star in the night sky, you shine bright. May your 21th year be as luminous as you are, Saima."
     ]
 };
 
@@ -1055,3 +1055,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
+
