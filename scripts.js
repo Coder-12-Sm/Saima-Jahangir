@@ -48,7 +48,7 @@ const wishesCategories = {
     inspirational: [
         "As you celebrate your 21th birthday, Saima, remember that the future is as bright as you make it. Dream big!",
         "Happy Birthday, Saima! May this year be the beginning of a wonderful journey toward your dreams.",
-        "Saima, on your 19th birthday, I hope you realize how much potential you have. The world is yours to conquer!",
+        "Saima, on your 21th birthday, I hope you realize how much potential you have. The world is yours to conquer!",
         "Happy Birthday, Saima! May you always have the courage to follow your heart and chase your dreams."
     ],
     poetic: [
@@ -623,7 +623,7 @@ function showSection(sectionId) {
     // Start typing animation for section text
     switch(sectionId) {
         case 'message':
-            typeText('message-text', "Saima, today is not just another day… it's your special day! You are an amazing person, full of kindness, light, and sincerity. I hope this little website makes your 19th birthday brighter and more memorable.");
+            typeText('message-text', "Saima, today is not just another day… it's your special day! You are an amazing person, full of kindness, light, and sincerity. I hope this little website makes your 21th birthday brighter and more memorable.");
             break;
         case 'memories':
             typeText('memories-text', "Here are some lovely pictures and memories collected for Saima. Each image holds a special story and wonderful memory!");
@@ -1055,4 +1055,5 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 });
+
 
